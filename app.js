@@ -1,2 +1,2 @@
 const message = "Hello World";
-console.log(message, " to Gitpod II");
+console.log(message, " to Gitpodify");
